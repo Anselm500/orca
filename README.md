@@ -11,6 +11,6 @@ Orca ist eine Software für Vokabeltests. Nach einem schnellen und einfachen sig
 
 # Summary in german:
 
-Orca ist eine Java Applikation welche die den Arbeitsaufwand verringern sowie die Verfälschung von Vokabeltests verhindern soll. Die Korrektur ist automatisiert und der Arbeitsaufwand damit für Lehrer auf ein Minimum reduziert. Die Schüler profitieren von Neutralität, Genaugigkeit sowie der Schnelligkeit der Korrektur durch diese Applikation. Sowohl für Schüler als auch Lehrer soll Orca eine Optimierung und Steigerung der Arbeitsproduktivität sein, durch sparen von Zeit und Energie. Es soll zudem angenehmer und benutzerfreundlicher sein als das herkömmliche ausarbeiten, bearbeiten und korrigieren von Vokabeltesten.
+Orca ist eine Java Applikation welche die den Arbeitsaufwand verringern sowie die Verfälschung von Vokabeltests verhindern soll. Die Korrektur ist automatisiert und der Arbeitsaufwand damit für Lehrer auf ein Minimum reduziert. Die Schüler profitieren von Neutralität, Genaugigkeit sowie der Schnelligkeit der Korrektur durch diese Applikation. Sowohl für Schüler als auch Lehrer soll Orca eine Optimierung und Steigerung der Arbeitsproduktivität durch sparen von Zeit und Energie sein. Es soll zudem angenehmer und benutzerfreundlicher sein als das herkömmliche ausarbeiten, bearbeiten und korrigieren von Vokabeltesten.
 
 (written by Anselm Petri)
