@@ -12,5 +12,3 @@ German part for the users (Pupils)
 Orca ist eine Software für Vokabeltests. Nach einem schnellen sign in geht es auch schon los. Orca ermöglicht es dir Vokabeltests am Computer zu schreiben, und diese direkt korrigiert zurück zu bekommen. Die Tests werden immer noch von deinen Lehrern erstellt, jedoch nicht mehr von jenen korrigiert. Das Programm übernimmt das lästige korrigieren deiner Lehrer. Allerdings hat die Software auch für dich Vorteile. So musst du dich nicht mehr konzentrieren leserlich zu schreiben, und dein Test wird nicht mehr von deinem Schreibstil beeinflusst. Außerdem musst du nicht mehr lange darauf warten deinen Test zurück zubekommen, denn du erhältst so direkt nachdem alle (du und deine Mitschüler) den Test abgeschlossenen haben dein Ergebnis. Unleserlichkeit deiner Schrift oder Bevorzugung mancher Schüler durch Leher (unter- und unbewusst) ist somit Schnee von Gestern. Die Software ist also auch für dich als Schüler von großem Vorteil, und ist definitiv zu empfehlen.
 
 (written by Anselm Petri)
-
-
